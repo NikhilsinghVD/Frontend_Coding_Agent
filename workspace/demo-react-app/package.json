@@ -1,0 +1,7 @@
+{
+  "name": "demo-react-app",
+  "dependencies": {
+    "react": "^19.0.0",
+    "@mui/material": "^7.0.0"
+  }
+}
